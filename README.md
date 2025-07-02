@@ -1,10 +1,12 @@
 ## Hi there 👋
+[snake gif](https://github.com/RitaJeveaux/RitaJeveaux/blob/output/github-snake-dark.svg)
+<!--!
 
-<!--![snake gif](https://github.com/RitaJeveaux/RitaJeveaux/blob/output/github-snake-dark.svg)
 
 
 **RitaJeveaux/RitaJeveaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![snake gif](https://github.com/RitaJeveaux/RitaJeveaux/blob/output/github-snake-dark.svg)
+Passionate about technology, Knowledge in Javascript, Phyton, PHP, C, C ++, ASP, Agile methodologies, GitHub, React, Redux, Hooks, MongoDB, MySQL ... 
 Here are some ideas to get you started:
  
 - 🔭 I’m currently working on ...
