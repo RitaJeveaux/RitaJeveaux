@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-
+![GitHub Snake dark](https://github.com/RitaJeveaux/RitaJeveaux/blob/output/github-snake-dark.svg?palette=github-dark)
 
 <!--!
 [Snake animation](https://github.com/RitaJeveaux/RitaJeveaux/blob/output/github-snake-dark.svg)
+![GitHub Snake dark](https://github.com/RitaJeveaux/RitaJeveaux/blob/output/github-snake-dark.svg?palette=github-dark)
 !
 
 **RitaJeveaux/RitaJeveaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
