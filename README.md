@@ -4,7 +4,6 @@
 <!--
 ![Snake animation](https://github.com/RitaJeveaux/RitaJeveaux/blob/output/github-snake-dark.svg)
 ![GitHub Snake dark](https://github.com/RitaJeveaux/RitaJeveaux/blob/output/github-snake-dark.svg?palette=github-dark)
-
 ![GitHub Snake](https://github.com/RitaJeveaux/RitaJeveaux/blob/output/github-snake.svg)
 
 !
