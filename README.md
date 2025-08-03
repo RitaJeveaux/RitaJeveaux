@@ -5,7 +5,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/RitaJeveaux/RitaJeveaux/output/github-snake-dark.svg?palette=github-dark" alt="github snake animation">
 </div>
--->
+
 ### 📫 Onde me encontrar
 
 <div>
