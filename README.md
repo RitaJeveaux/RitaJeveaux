@@ -1,16 +1,16 @@
 ## Hi there 👋
-
+<!--
 ### 🐍 Minhas Contribuições no GitHub
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/RitaJeveaux/RitaJeveaux/output/github-snake-dark.svg?palette=github-dark" alt="github snake animation">
 </div>
-
+-->
 ### 📫 Onde me encontrar
 
 <div>
  <a href="https://www.linkedin.com/in/ritajeveauxlogo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:ritajeveaux@gmail.com><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:ritajeveaux@gmail.com><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <div>
